@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains the research paper and supplementary materials for the project: **"Predictive Analytics on Doctor and Medicine Availability in Government Hospitals".** The study explores the use of machine learning models like Deep Neural Networks (DNN), Random Forest, and XGBoost to optimize resource management in healthcare settings.
-
+"There is also a demo video included"
 ## Highlights
 - Achieved **97.40% accuracy** for predicting doctor availability.
 - Achieved **98.56% accuracy** for predicting medicine availability using the DNN model.
